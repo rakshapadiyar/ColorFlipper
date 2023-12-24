@@ -3,7 +3,6 @@
 Basic JS
 
 Key concepts covered:
-
 arrays
 document.getElementById()
 document.querySelector()
